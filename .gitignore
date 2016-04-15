@@ -1,0 +1,5 @@
+# ignore Eclipse meta files
+.project
+
+# ignore backup files
+*.rkt~
